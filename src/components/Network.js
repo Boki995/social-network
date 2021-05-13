@@ -22,7 +22,7 @@ export class Network {
     })
   }
 
-  // it doesn't have much sense here as the people property has no private accessibility
+  
   getPeople() {
     return this.people
   }
